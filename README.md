@@ -1,7 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 ## Laravel 7 and React 16.13 boilerplate
-There are two different ways to run this demo
+There are two different ways to run this 
 
 Please follow the guide.
 
